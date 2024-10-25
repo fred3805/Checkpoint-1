@@ -1,5 +1,5 @@
 Questions:
 # 2:   chmod 744
 # 7:   couche 2: switch
-#      couche 3: route  ( pour        le                     reseau     tout         se          passe        automatiquement )
+#      couche 3: routeur  ( pour        le                     reseau     tout         se          passe        automatiquement )
 # Modele OSI:          1: physique 2: liaison des données 3: réseau 4 : transport 5: sessions 6: présentation 7: applications ( sans tricher )
